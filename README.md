@@ -93,13 +93,13 @@ Buzzer| NodeMCU
 <b>📁 Project Structure</b>
 
 <b>RFID-Attendance-System/</b>
-<b>│
+
 ├── RFID_Attendance.ino
 ├── GoogleAppsScript.js
 ├── Circuit_Diagram.png
 ├── Images/
 ├── README.md
-└── Libraries/</b>
+└── Libraries/
 
 <b>🎯 Applications</b>
 
