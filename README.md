@@ -1,4 +1,4 @@
-<p style="font-size:20px;">RFID-Based Attendance System Using ESP8266 with Google Sheets</p>
+<p style="font-size: 40px;">RFID-Based Attendance System Using ESP8266 with Google Sheets</p>
 
 <b>📌 Overview </b>
 
